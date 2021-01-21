@@ -1,0 +1,9 @@
+{
+  "name": "onfido_handle_webhook",
+  "title": "Onfido Handle Webhook",
+  "description": "Provides an API endpoint for Onfido's webhook functionality to send events to. Allows for processing of events including report and check details.",
+  "connectors": [
+    "okta",
+    "http"
+  ]
+}
