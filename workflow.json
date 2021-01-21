@@ -5,5 +5,11 @@
   "connectors": [
     "okta",
     "http"
+  ],
+  "links": [
+    {
+      "title": "Setup Documentation",
+      "destination": "https://github.com/jhickmanit/onfido-handle-webhook/blob/master/readme.md"
+    }
   ]
 }
